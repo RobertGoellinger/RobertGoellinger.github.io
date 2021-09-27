@@ -1,14 +1,18 @@
 ---
 title: "Simulation using MATLAB and Simulink"
 collection: teaching
-type: "Undergraduate course"
+type: "Programming tutorial"
 permalink: /teaching/2018-Simulation
 venue: "RWTH Aachen University, IT Center"
 date: 2018-10-1
 location: "Aachen, Germany"
 ---
 
+
+
 Topics
+------
+
 - Review of basic structures in MATLAB
 - Symbolic Maths Toolbox
 - Strategies for solving differential equations (numerically and symbolically)
