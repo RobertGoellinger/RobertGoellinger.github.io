@@ -8,5 +8,16 @@ date: 2018-10-1
 location: "Aachen, Germany"
 ---
 
+Topics
+- Introduction to MATLAB
+- Installation and Support
+- First Steps in MATLAB
+- Calculating in MATLAB
+- Boolean Operators, Loops, Functions, Stuctures
+- Visualisation 
+- Importing and Displaying Data
+- Introduction to GUI-Programming using Appdesigner
+- Developing a GUI (Callbacks, Handles)
+
 
 
