@@ -1,12 +1,18 @@
 ---
-title: "Teaching Certificate - ExAcT RWTH Aachen University"
+title: "Teaching Certificate"
 collection: teaching
-type: ""
+type: "Certificate"
 permalink: /teaching/2020-TeachingCertificate
 venue: "RWTH Aachen University, IT Center"
 date: 2020-1-10
 location: "Aachen, Germany"
 ---
+
+The Teaching Certificate is offered by the ExAcT-Team at RWTH Aachen, it is a wonderful free resource for all scientific staff at RWTH to improve and expand their take on university education.
+
+
+Teaching certificate
+--------------------
 
 The fIT team at RWTH Aachen University has been offering free IT training for students since the summer semester of 2008. The team is made up of student assistants who organize themselves independently to a large extent. The courses teach the use of common IT programs (currently Office package, SPSS, LaTeX and MATLAB) as well as presentation techniques.
 

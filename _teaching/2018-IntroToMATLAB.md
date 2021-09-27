@@ -1,7 +1,7 @@
 ---
 title: "Introduction to MATLAB"
 collection: teaching
-type: "Undergraduate course"
+type: "Programming tutorial"
 permalink: /teaching/2018-IntroToMATLAB
 venue: "RWTH Aachen University, IT Center"
 date: 2018-10-1
@@ -9,6 +9,8 @@ location: "Aachen, Germany"
 ---
 
 Topics
+------
+
 - Introduction to MATLAB
 - Installation and Support
 - First Steps in MATLAB
