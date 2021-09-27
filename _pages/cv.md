@@ -12,12 +12,12 @@ redirect_from:
 Education
 ---------
 * B.Sc. Mechanical Engineering, RWTH Aachen University (to be completed summer semester 2022)
+* Abitur, Katharinen-Gymnasium Ingolstadt (specialisation on Physics and History)
 
 Work experience
 ---------------
 
 * Student research assistant (10/2021 -- present), Institut für Kunststoffverarbeitung (IKV) -- Injection Molding
-  * Duties included: 
 
 
 * Software development intern (09/2020 -- 03/2021), BMW AG -- Software and Development Toolchain, Continous Integration for Vehicle Dynamics (EF-303)
@@ -26,6 +26,7 @@ Work experience
     - Developing tooling software for MiL/HiL-Tests
     - Software builds using Bazel
     - Test automation in JAVA
+    - Maintaining CI/CD for the Vehicle Dynamics Division
 
 
 * Student lecturer (10/2018 -- 03/2021), IT Center RWTH Aachen University -- fIT in IT
@@ -36,7 +37,7 @@ Work experience
     - Creation of a new digital concept of teaching
     - Automated test evaluation for homework assignments using Moodle
     - Coordinated with other lecturers about teaching MATLAB at RWTH Aachen
-  * Completed additional certification: "Qualification program for professional teaching skills for the university"
+  * Completed additional certification: "Qualification program for professional teaching skills for the university" -ExAcT Team RWTH Aachen University
   
 
 Programming languages
@@ -44,5 +45,6 @@ Programming languages
 * Matlab/Simulink especially Codegen
 * Python3
 * JAVA
+* Bazel
 
   
