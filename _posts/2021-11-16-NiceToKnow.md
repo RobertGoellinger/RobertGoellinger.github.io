@@ -1,4 +1,3 @@
-2021-11-16-NiceToKnow.md
 ---
 title: 'Nice To Know'
 date: 2021-11-16
@@ -11,7 +10,7 @@ tags:
 Solutions to common errors I have encountered while working on various software projects. 
 
 Nice To Know
-============
+------------
 
 Git
 ---
