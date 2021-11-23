@@ -8,6 +8,9 @@ date: 2018-10-1
 location: "Aachen, Germany"
 ---
 
+A short introduction to scientific programming in MATLAB.
+
+
 Topics
 ------
 

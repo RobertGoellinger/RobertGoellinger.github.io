@@ -1,10 +1,11 @@
 ---
 title: 'MATLAB Codegen for fminsearch without anonymous functions'
 date: 2020-09-18
-permalink: /posts/2021/09/2021-09-18-matlab-codegen1/
+permalink: /posts/2021/09/2021-09-18-matlab-codegen-fminsearch/
 tags:
   - MATLAB
   - Codegen
+  - fminsearch
 ---
 
 Code Generation from MATLAB Code is a common way to generate performant C Code for hardware applications. 
@@ -47,6 +48,6 @@ minimizedX = fminsearch(functionToMinimize,x0);
 
 Resources
 ---------
-* [Matlab documentation]()
-* [Question on Stackoverflow] ()
+* [Matlab documentation](https://de.mathworks.com/help/matlab/ref/fminsearch.html)
+* [Question on Stackoverflow] (https://stackoverflow.com/questions/25820106/matlab-codegen-does-not-support-anonymous-functions)
 

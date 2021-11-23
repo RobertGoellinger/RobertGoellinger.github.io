@@ -8,6 +8,7 @@ date: 2018-10-1
 location: "Aachen, Germany"
 ---
 
+A short introduction into simulation using MATLAB and Simulink. 
 
 
 Topics
@@ -17,7 +18,7 @@ Topics
 - Symbolic Maths Toolbox
 - Strategies for solving differential equations (numerically and symbolically)
 - Laplace transform
-- Excursus: Finite difference method (stability of the method)
+- Excursus: Finite difference method (stability of Forward Euler)
 - Model building and action plan
 - Introduction to Simulink
 - Model structuring
