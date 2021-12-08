@@ -12,12 +12,13 @@ redirect_from:
 Education
 ---------
 * B.Sc. Mechanical Engineering, RWTH Aachen University (to be completed summer semester 2022)
-* Abitur, Katharinen-Gymnasium Ingolstadt (specialisation on Physics and History)
 
 Work experience
 ---------------
 
 * Student research assistant (10/2021 -- present), Institut für Kunststoffverarbeitung (IKV) -- Injection Molding
+  * Duties included: 
+    - Development of a CI/CD strategy for 
 
 
 * Software development intern (09/2020 -- 03/2021), BMW AG -- Software and Development Toolchain, Continous Integration for Vehicle Dynamics (EF-303)
@@ -46,5 +47,5 @@ Programming languages
 * Python3
 * JAVA
 * Bazel
-
+* Docker
   

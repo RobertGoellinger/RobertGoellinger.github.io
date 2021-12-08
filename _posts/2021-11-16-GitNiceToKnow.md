@@ -1,7 +1,7 @@
 ---
-title: 'Nice To Know'
+title: 'Git Nice To Know'
 date: 2021-11-16
-permalink: /posts/2021/11/2021-11-16-NiceToKnow/
+permalink: /posts/2021/11/2021-11-16-GitNiceToKnow/
 tags:
   - Git
   - Debugging
@@ -9,11 +9,8 @@ tags:
 
 Solutions to common errors I have encountered while working on various software projects. 
 
-Nice To Know
-------------
-
-Git
----
+Git Nice To Know
+----------------
 
 1. Error message: Filename too long during git clone of repository. 
     Solution: Run the following code inside cmd as an administrator. 
