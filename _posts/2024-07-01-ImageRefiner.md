@@ -1,14 +1,17 @@
 ---
 title: 'Image Refiner'
-date: 2020-09-18
+date: 2024-07-02
 permalink: /posts/2012/08/2024-07-02-ImageRefiner/
 tags:
   - MATLAB
   - Medical Image Refinement
 ---
 
-Getting Started
+ImageRefiner
 ===============
+
+The project was developed by me and will be published in ...
+The repository for the project can be found [here](https://github.com/RobertGoellinger/ImageRefiner).
 
 The ImageRefiner is a tool written to analyse nephrological images in the `.tiff`-format. 
 There are a lot of different parameters that can be adjusted in order to optimize the image analysis process. The settings used for an analysis can be adjusted in the file :file:`Settings.m`.

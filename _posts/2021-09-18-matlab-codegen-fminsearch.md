@@ -1,6 +1,6 @@
 ---
 title: 'MATLAB Codegen for fminsearch without anonymous functions'
-date: 2020-09-18
+date: 2021-09-18
 permalink: /posts/2021/09/2021-09-18-matlab-codegen-fminsearch/
 tags:
   - MATLAB

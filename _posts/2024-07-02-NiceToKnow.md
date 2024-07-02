@@ -1,5 +1,5 @@
 ---
-title: 'Git Nice To Know'
+title: 'Nice To Know'
 date: 2021-11-16
 permalink: /posts/2021/11/2024-07-02-NiceToKnow/
 tags:
