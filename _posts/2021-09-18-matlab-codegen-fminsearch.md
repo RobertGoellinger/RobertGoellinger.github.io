@@ -8,24 +8,23 @@ tags:
   - fminsearch
 ---
 
-Code Generation from MATLAB Code is a common way to generate performant C Code for hardware applications. 
-Only certain MATLAB functions are supported for automatic code generation.  
 
 Running fminsearch on a function with multiple input arguments
-==============================================================
-
+--------------------------------------------------------------
+Code Generation from MATLAB Code is a common way to generate performant C Code for hardware applications. 
+Only certain MATLAB functions are supported for automatic code generation. 
 Luckily the optimization toolbox contains the function fminsearch which minimizes the target function `functionToMinimize` which may either be passed as an anonymous function or a function handle. 
 
 ```matlab
 targetFun = @(x, constantPar1, constantPar2)();
-functionToMinimize = @(x)(targetFun(x,constantPar1, constantPar2));
+functionToMinimize = @(x)(targetFun(x, constantPar1, constantPar2));
 x0 = []; % Starting values
-minimizedX = fminsearch(functionToMinimize,x0);
+minimizedX = fminsearch(functionToMinimize, x0);
 ```
 
 Unfortunately [anonymous Functions](https://de.mathworks.com/help/matlab/matlab_prog/anonymous-functions.html) have only been enabled for code generation in Update R2017b. For all updates before R2017b you need to use function handles instead of anonymous functions.
-
-First you need to write the `functionToMinimize`. This may look something like this:
+First you need to write the `functionToMinimize`. 
+This may look something like this:
 
 ```matlab
 function out = functionToMinimize(x, constantPar1, constantPar2)
