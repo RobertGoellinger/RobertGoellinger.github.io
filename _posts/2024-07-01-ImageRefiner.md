@@ -1,11 +1,10 @@
 ---
 title: 'Image Refiner'
 date: 2020-09-18
-permalink: /posts/2012/08/2021-09-18-CodeGen/
+permalink: /posts/2012/08/2024-07-02-ImageRefiner/
 tags:
   - MATLAB
-  - Image Refinement
-  - Medical Engineering
+  - Medical Image Refinement
 ---
 
 Getting Started
@@ -50,7 +49,7 @@ The usage of explicit functions is only advised if you are a developer and know 
 
 
 Normal work flow
-~~~~~~~~~~~~~~~~
+----------------
 
 You can run this code from the MATLAB Command Window.
 
@@ -79,7 +78,7 @@ If you want to adapt the boundaries for areas please change the following settin
 
 Debugging
 ---------
-
 Should you encounter any problems during the programm execution please read the error message first! 
 The error message will be displayed in the MATLAB window in red. Go to the first error message and try to fix the error. 
-In case you do not understand the error please contact the developer (robert.goellinger@rwth-aachen.de). You may additionally attach the .log-File found inside the target directory. 
+In case you do not understand the error please open a issue on GitHub. 
+You may additionally attach the .log-File found inside the target directory. 

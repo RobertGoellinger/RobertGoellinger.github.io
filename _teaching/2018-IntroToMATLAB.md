@@ -13,7 +13,6 @@ A short introduction to scientific programming in MATLAB.
 
 Topics
 ------
-
 - Introduction to MATLAB
 - Installation and Support
 - First Steps in MATLAB

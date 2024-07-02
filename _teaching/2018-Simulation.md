@@ -10,10 +10,8 @@ location: "Aachen, Germany"
 
 A short introduction into simulation using MATLAB and Simulink. 
 
-
 Topics
 ------
-
 - Review of basic structures in MATLAB
 - Symbolic Maths Toolbox
 - Strategies for solving differential equations (numerically and symbolically)
