@@ -23,6 +23,11 @@ Thesis
 
 Work experience
 ---------------
+* PhD researcher (09/2023 -- 09/2027), Institute for Automatic Control -- Poroduction systems
+  * Research interests: 
+    - Model-based controllers
+    - Controller tuning
+    - Application of Machine Learning techniques within control engineering
 * Fullstack developer (10/2021 -- 09/2023), Institute for Plastic Processing -- Injection Molding
   Tasks: 
     - Development of a CI/CD strategy for the development of a novel process control platform for the injection molding process
