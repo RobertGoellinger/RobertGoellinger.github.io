@@ -3,7 +3,7 @@ locale                   : "en-US"
 title                    : "Robert Goellinger"
 title_separator          : "-"
 name                     : &name "Robert Goellinger"
-description              : &description "Mechanical Engineering student at RWTH Aachen University with a keen interest in computer science and control theory"
+description              : &description "Automation Engineering student at RWTH Aachen University with a keen interest in computer science and control theory"
 url                      : https://robertgoellinger.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "RobertGoellinger/robertgoellinger.github.io"
@@ -75,9 +75,9 @@ analytics:
 author:
   name             : "Robert Goellinger"
   avatar           : "bio-photo-1.jpeg"
-  bio              : "Mechanical Engineering student at RWTH Aachen University with a keen interest in computer science and control theory"
+  bio              : "Automation Engineering student at RWTH Aachen University with a keen interest in computer science and control theory"
   location         : "Aachen, Germany"
-  employer         :
+  employer         : "RWTH Aachen University"
   pubmed           : 
   googlescholar    : 
   email            :
@@ -96,7 +96,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/0009-0005-0694-8948"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
