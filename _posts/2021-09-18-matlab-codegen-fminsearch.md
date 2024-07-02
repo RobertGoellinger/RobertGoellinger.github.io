@@ -23,7 +23,7 @@ x0 = []; % Starting values
 minimizedX = fminsearch(functionToMinimize,x0);
 ```
 
-Unfortunately [Anonymous Functions] (https://de.mathworks.com/help/matlab/matlab_prog/anonymous-functions.html) have only been enabled for code generation in Update R2017b. For all updates before R2017b you need to use function handles instead of anonymous functions.
+Unfortunately [anonymous Functions](https://de.mathworks.com/help/matlab/matlab_prog/anonymous-functions.html) have only been enabled for code generation in Update R2017b. For all updates before R2017b you need to use function handles instead of anonymous functions.
 
 First you need to write the `functionToMinimize`. This may look something like this:
 
@@ -49,5 +49,5 @@ minimizedX = fminsearch(functionToMinimize,x0);
 Resources
 ---------
 * [Matlab documentation](https://de.mathworks.com/help/matlab/ref/fminsearch.html)
-* [Question on Stackoverflow] (https://stackoverflow.com/questions/25820106/matlab-codegen-does-not-support-anonymous-functions)
+* [Question on Stackoverflow](https://stackoverflow.com/questions/25820106/matlab-codegen-does-not-support-anonymous-functions)
 
