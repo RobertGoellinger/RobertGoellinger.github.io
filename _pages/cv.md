@@ -23,7 +23,7 @@ Thesis
 
 Work experience
 ---------------
-* PhD researcher (09/2023 -- 09/2027), Institute for Automatic Control -- Poroduction systems
+* PhD researcher (09/2024 -- 09/2028), Institute for Automatic Control -- Production systems
   * Research interests: 
     - Model-based controllers
     - Controller tuning
